@@ -1,0 +1,54 @@
+.jet-alphabet-list {
+	&__wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		margin: -5px;
+		border: 0;
+		padding: 0;
+	}
+
+	&__row {
+		padding: 5px;
+	}
+
+	&__item {
+		cursor: pointer;
+		user-select: none;
+		display: block;
+
+		input[type="checkbox"],
+		input[type="radio"] {
+			display: none;
+		}
+	}
+
+	&__button {
+		display: block;
+		padding: 5px 8px;
+		border: 1px solid #ccc;
+		border-radius: 5px;
+		text-align: center;
+	}
+
+	&__input:checked + &__button {
+		background-color: rgb(233, 233, 233);
+	}
+}
+
+// Context Bricks
+.jet-smart-filters-alphabet {
+	.jet-alphabet-list__wrapper {
+		gap: 8px;
+		margin: 0;
+	}
+
+	.jet-alphabet-list__row {
+		padding: 0;
+	}
+
+	.jet-alphabet-list__item {
+		margin-bottom: 0;
+		font-weight: inherit;
+		color: inherit;
+	}
+}
