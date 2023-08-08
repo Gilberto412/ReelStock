@@ -1,0 +1,40 @@
+.jet-smart-filters-active-tags {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+
+	.jet-active-tags {
+		&__title {
+			flex: 0 0 auto;
+			margin-right: 5px;
+		}
+
+		&__list {
+			display: flex;
+			flex-direction: row;
+			justify-content: flex-start;
+			align-items: flex-start;
+			flex-wrap: wrap;
+			width: 100%;
+		}
+	}
+
+	.jet-active-tag {
+		cursor: pointer;
+		position: relative;
+		display: flex;
+		padding-right: 10px;
+
+		&__label {
+			padding-right: 3px;
+		}
+
+		&__remove {
+			position: absolute;
+			top: 0;
+			right: 0;
+			line-height: 1;
+		}
+	}
+}

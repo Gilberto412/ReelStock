@@ -1,0 +1,1308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JetRevfiews for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 10:42+0200\n"
+"PO-Revision-Date: 2019-01-09 10:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: Zemez\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;_ex:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"esc_attr__;_x: 1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: includes/class-jet-review-ajax-handlers.php:37
+msgid "Internal error. Please, try again later"
+msgstr "Внутренняя ошибка. Пожалуйста, повторите попытку позже."
+
+#: includes/class-jet-review-ajax-handlers.php:38
+msgid "Server error. Please, try again later"
+msgstr "Ошибка сервера. Пожалуйста, повторите попытку позже."
+
+#: includes/class-jet-review-ajax-handlers.php:39
+msgid "No Data Found"
+msgstr "Данные не найдены"
+
+#: includes/class-jet-review-ajax-handlers.php:40
+msgid "Success. Review Has Been Added"
+msgstr "Ревью было успешно добавлено"
+
+#: includes/class-jet-review-ajax-handlers.php:41
+msgid "Success. Review Has Been Removed"
+msgstr "Ревью было успешно удалено"
+
+#: includes/class-jet-review-ajax-handlers.php:42
+msgid "Demo Mode is active. Only logged users can leave review."
+msgstr ""
+"Активен режим демо. Оставлять отзывы могут только залогированные "
+"пользователи."
+
+#: includes/class-jet-reviews-integration.php:145
+msgid "JetElements"
+msgstr "JetElements"
+
+#: includes/class-jet-reviews-meta.php:54
+msgid "JetReviews"
+msgstr "JetReviews"
+
+#: includes/class-jet-reviews-meta.php:62
+msgid "Review Box Title"
+msgstr "Заголовок отзыва"
+
+#: includes/class-jet-reviews-meta.php:63
+#: includes/class-jet-reviews-tools.php:150
+#: includes/widgets/jet-reviews-widget.php:323
+#: includes/widgets/jet-reviews-widget.php:721
+#: includes/widgets/jet-reviews-widget.php:1106
+#: templates/jet-reviews/global/form.php:42
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/class-jet-reviews-meta.php:67
+msgid "Review Fields"
+msgstr "Поля отзыва"
+
+#: includes/class-jet-reviews-meta.php:68
+msgid "Add New Field"
+msgstr "Добавить новое поле"
+
+#: includes/class-jet-reviews-meta.php:75
+msgid "Review Field Label"
+msgstr "Поле для критерия"
+
+#: includes/class-jet-reviews-meta.php:76
+#: includes/widgets/jet-reviews-widget.php:136
+#: includes/widgets/jet-reviews-widget.php:1139
+#: includes/widgets/jet-reviews-widget.php:1708
+msgid "Label"
+msgstr "Критерий"
+
+#: includes/class-jet-reviews-meta.php:82
+#: includes/widgets/jet-reviews-widget.php:144
+msgid "Field Value"
+msgstr "Поле для значения"
+
+#: includes/class-jet-reviews-meta.php:83
+#: includes/widgets/jet-reviews-widget.php:791
+#: includes/widgets/jet-reviews-widget.php:1741
+#: includes/widgets/jet-reviews-widget.php:2232
+msgid "Value"
+msgstr "Значение"
+
+#: includes/class-jet-reviews-meta.php:89
+msgid "Field Max Value"
+msgstr "Поле для максимального значения"
+
+#: includes/class-jet-reviews-meta.php:90
+msgid "Max Value"
+msgstr "Макс. значение"
+
+#: includes/class-jet-reviews-meta.php:96
+msgid "Summary Block Title"
+msgstr "Подзаголовок итогов отзыва"
+
+#: includes/class-jet-reviews-meta.php:97
+#: includes/widgets/jet-reviews-widget.php:187
+#: includes/widgets/jet-reviews-widget.php:2030
+msgid "Summary Title"
+msgstr "Текст подзаголовка итогов отзыва"
+
+#: includes/class-jet-reviews-meta.php:101
+#: includes/widgets/jet-reviews-widget.php:199
+msgid "Summary Text"
+msgstr "Основной текст итогов отзыва"
+
+#: includes/class-jet-reviews-meta.php:105
+msgid "Text Above Summary Value"
+msgstr "Текст, отображаемый выше подводимых итогов"
+
+#: includes/class-jet-reviews-meta.php:106
+#: includes/widgets/jet-reviews-widget.php:211
+msgid "Summary Legend"
+msgstr "Главный заголовок итогов отзыва"
+
+#: includes/class-jet-reviews-meta.php:113
+msgid "JetReviews Structured Data"
+msgstr "JetReviews Structured Data"
+
+#: includes/class-jet-reviews-meta.php:121
+msgid "What was reviewed?"
+msgstr "Объект, для которого был создан обзор"
+
+#: includes/class-jet-reviews-meta.php:122
+msgid "Reviewed Item Name"
+msgstr "Название объекта отзыва"
+
+#: includes/class-jet-reviews-meta.php:127
+msgid "Reviewed Item Image"
+msgstr "Изображение объекта отзыва"
+
+#: includes/class-jet-reviews-meta.php:131
+msgid "Few words about reviewd item"
+msgstr "Пару слов об объекте отзыва"
+
+#: includes/class-jet-reviews-meta.php:132
+msgid "Reviewd Item Description"
+msgstr "Описание объекта отзыва"
+
+#: includes/class-jet-reviews-meta.php:136
+#: includes/class-jet-reviews-meta.php:137
+#: includes/widgets/jet-reviews-widget.php:301
+msgid "Review Author Name"
+msgstr "Имя автора отзыва"
+
+#: includes/class-jet-reviews-settings.php:98
+msgid "Settings saved"
+msgstr "Сохраненные настройки"
+
+#: includes/class-jet-reviews-settings.php:181
+#: includes/class-jet-reviews-settings.php:182
+#: includes/class-jet-reviews-settings.php:206
+msgid "JetReviews Settings"
+msgstr "Настройки JetReviews"
+
+#: includes/class-jet-reviews-settings.php:250
+msgid "General settings"
+msgstr "Глобальные настройки"
+
+#: includes/class-jet-reviews-settings.php:264
+msgid "Enable Review Meta Box for:"
+msgstr "Включить ячейку с метаданными отзыва для:"
+
+#: includes/class-jet-reviews-settings.php:265
+msgid "MailChimp API key"
+msgstr "MailChimp API ключ"
+
+#: includes/class-jet-reviews-settings.php:280
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/class-jet-reviews-tools.php:96
+msgid "Full"
+msgstr "Полный"
+
+#: includes/class-jet-reviews-tools.php:147
+msgid "None"
+msgstr "Ничего"
+
+#: includes/class-jet-reviews-tools.php:148
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-jet-reviews-tools.php:149
+#: includes/widgets/jet-reviews-widget.php:1410
+msgid "Author"
+msgstr "Автор"
+
+#: includes/class-jet-reviews-tools.php:151
+msgid "Name (slug)"
+msgstr "Имя (slug)"
+
+#: includes/class-jet-reviews-tools.php:152
+#: includes/widgets/jet-reviews-widget.php:1621
+msgid "Date"
+msgstr "Дата"
+
+#: includes/class-jet-reviews-tools.php:153
+msgid "Modified"
+msgstr "Изменено"
+
+#: includes/class-jet-reviews-tools.php:154
+msgid "Rand"
+msgstr "Рант"
+
+#: includes/class-jet-reviews-tools.php:155
+msgid "Comment Count"
+msgstr "Количество комментариев"
+
+#: includes/class-jet-reviews-tools.php:156
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: includes/class-jet-reviews-tools.php:168
+msgid "Descending"
+msgstr "Нисходящий"
+
+#: includes/class-jet-reviews-tools.php:169
+msgid "Ascending"
+msgstr "Восходящий"
+
+#: includes/class-jet-reviews-tools.php:181
+msgid "Baseline"
+msgstr "Исходные данные"
+
+#: includes/class-jet-reviews-tools.php:182
+msgid "Top"
+msgstr "Верхний"
+
+#: includes/class-jet-reviews-tools.php:183
+msgid "Middle"
+msgstr "Центральный"
+
+#: includes/class-jet-reviews-tools.php:184
+msgid "Bottom"
+msgstr "Нижний"
+
+#: includes/class-jet-reviews-tools.php:185
+msgid "Sub"
+msgstr "Под"
+
+#: includes/class-jet-reviews-tools.php:186
+msgid "Super"
+msgstr "Над"
+
+#: includes/class-jet-reviews-tools.php:187
+msgid "Text Top"
+msgstr "Верхний текст"
+
+#: includes/class-jet-reviews-tools.php:188
+msgid "Text Bottom"
+msgstr "Нижний текст"
+
+#: includes/class-jet-reviews-tools.php:331
+#: includes/class-jet-reviews-tools.php:354
+msgid "Angle"
+msgstr "Angle"
+
+#: includes/class-jet-reviews-tools.php:332
+#: includes/class-jet-reviews-tools.php:355
+msgid "Chevron"
+msgstr "Chevron"
+
+#: includes/class-jet-reviews-tools.php:333
+#: includes/class-jet-reviews-tools.php:356
+msgid "Angle Double"
+msgstr "Angle Double"
+
+#: includes/class-jet-reviews-tools.php:334
+#: includes/class-jet-reviews-tools.php:357
+msgid "Arrow"
+msgstr "Arrow"
+
+#: includes/class-jet-reviews-tools.php:335
+#: includes/class-jet-reviews-tools.php:358
+msgid "Caret"
+msgstr "Caret"
+
+#: includes/class-jet-reviews-tools.php:336
+#: includes/class-jet-reviews-tools.php:359
+msgid "Long Arrow"
+msgstr "Long Arrow"
+
+#: includes/class-jet-reviews-tools.php:337
+#: includes/class-jet-reviews-tools.php:360
+msgid "Arrow Circle"
+msgstr "Arrow Circle"
+
+#: includes/class-jet-reviews-tools.php:338
+#: includes/class-jet-reviews-tools.php:361
+msgid "Chevron Circle"
+msgstr "Chevron Circle"
+
+#: includes/class-jet-reviews-tools.php:339
+#: includes/class-jet-reviews-tools.php:362
+msgid "Caret Square"
+msgstr "Caret Square"
+
+#: includes/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установить обязательные плагины"
+
+#: includes/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: includes/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: includes/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: includes/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Возникли проблемы с API плагина."
+
+#: includes/lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для темы необходим следующий плагин: %1$s."
+msgstr[1] "Для темы необходимы следующие плагины: %1$s."
+msgstr[2] "Для темы необходим следующий плагин: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для темы рекомендуется следующий плагин: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следующий плагин следует обновить до последней версии чтобы достигнуть "
+"наивысшей совместимости с данной темой: %1$s."
+msgstr[1] ""
+"Следующие плагины следует обновить до последней версии чтобы достигнуть "
+"наивысшей совместимости с данной темой: %1$s."
+msgstr[2] ""
+"Следующие плагины следует обновить до последней версии чтобы достигнуть "
+"наивысшей совместимости с данной темой: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление для: %1$s."
+msgstr[1] "Доступно обновление для: %1$s."
+msgstr[2] "Доступно обновление для: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий необходимый плагин на данный момент неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины на данный момент неактивны: %1$s."
+msgstr[2] "Следующие необходимые плагины на данный момент неактивны: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин на данный момент неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины на данный момент неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины на данный момент неактивны: %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагина"
+
+#: includes/lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагина"
+
+#: includes/lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: includes/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к Установщику Обязательных Плагинов"
+
+#: includes/lib/class-tgm-plugin-activation.php:393
+#: includes/lib/class-tgm-plugin-activation.php:920
+#: includes/lib/class-tgm-plugin-activation.php:2626
+#: includes/lib/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Вернуться в Админ-панель"
+
+#: includes/lib/class-tgm-plugin-activation.php:394
+#: includes/lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: includes/lib/class-tgm-plugin-activation.php:395
+#: includes/lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагины были успешно активированы:"
+
+#: includes/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не предпринято. Плагин %1$s успешно активирован."
+
+#: includes/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы необходима более новая версия %s. "
+"Пожалуйста, обновите плагин."
+
+#: includes/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Пропустить уведомление"
+
+#: includes/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Необходимо установить, обновить или активировать один или более обязательный "
+"или рекомендуемый плагин."
+
+#: includes/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь за помощью к администратору сайта."
+
+#: includes/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: includes/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: includes/lib/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Вместо этого установите конфигурационную переменную parent_slug."
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Дистанционный пакет плагина не содержит папку с желаемым slug и "
+"переименование не сработало."
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Пожалуйста, обратитесь к производителю плагина и попросите упаковать плагин "
+"в соответствии с рекомендациями WordPress."
+
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Дистанционный пакет плагина состоит более, чем из одного файла, но они не "
+"упакованы в папку."
+
+#: includes/lib/class-tgm-plugin-activation.php:1214
+#: includes/lib/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: includes/lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Обязательный"
+
+#: includes/lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: includes/lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: includes/lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: includes/lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Предварительно упакован"
+
+#: includes/lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: includes/lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: includes/lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Активный"
+
+#: includes/lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "Обязательное обновление не доступно"
+
+#: includes/lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Требует обновления"
+
+#: includes/lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: includes/lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: includes/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы установть <span class=\"count\">(%s)</span>"
+msgstr[1] "Чтобы установть <span class=\"count\">(%s)</span>"
+msgstr[2] "Чтобы установть <span class=\"count\">(%s)</span>"
+
+#: includes/lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Обновите доступный <span class=\"count\">(%s)</span>"
+msgstr[1] "Обновите доступные <span class=\"count\">(%s)</span>"
+msgstr[2] "Обновите доступные <span class=\"count\">(%s)</span>"
+
+#: includes/lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Чтобы активировать <span class=\"count\">(%s)</span>"
+
+#: includes/lib/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#: includes/lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: includes/lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: includes/lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: includes/lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления и активации."
+
+#: includes/lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Плагин"
+
+#: includes/lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Источник"
+
+#: includes/lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Тип"
+
+#: includes/lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Версия"
+
+#: includes/lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Статус"
+
+#: includes/lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: includes/lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Установить"
+
+#: includes/lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Ни один плагин не был выбран для установки. Никаких действий не "
+"предпринималось."
+
+#: includes/lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Ни один плагин не был выбран для обновления. Никаких действий не "
+"предпринималось."
+
+#: includes/lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящий момент нет доступных плагинов для установки."
+
+#: includes/lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "В настоящий момент нет доступных плагинов для обновления."
+
+#: includes/lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Ни один плагин не был выбран для активации. Никаких действий не "
+"предпринималось."
+
+#: includes/lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящий момент нет доступных плагинов для активации."
+
+#: includes/lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "Неудачная активация плагина."
+
+#: includes/lib/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина  %1$s (%2$d/%3$d)"
+
+#: includes/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Во время установки возникла проблема %1$s: <strong>%2$s</strong>."
+
+#: includes/lib/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Неудачная установка  %1$s."
+
+#: includes/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Этот процесс может занять какое-то "
+"время на некоторых хостах."
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: includes/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: includes/lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: includes/lib/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки. Он может занять какое-то время на некоторых "
+"хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#: includes/lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: includes/lib/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: includes/lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: includes/widgets/jet-reviews-widget.php:33
+#: includes/widgets/jet-reviews-widget.php:581
+msgid "Review"
+msgstr "Review"
+
+#: includes/widgets/jet-reviews-widget.php:77
+msgid "Content"
+msgstr "Контент"
+
+#: includes/widgets/jet-reviews-widget.php:85
+msgid "Content Source"
+msgstr "Источник данных отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:94
+msgid "Get Data From Post"
+msgstr "Получить данные от поста"
+
+#: includes/widgets/jet-reviews-widget.php:95
+msgid ""
+"Enter post ID to get data from or leave empy to get data from current post"
+msgstr ""
+"Введите ID поста или оставьте поле пустым для получения данных от текущего "
+"поста"
+
+#: includes/widgets/jet-reviews-widget.php:122
+msgid "Show Review Author"
+msgstr "Отображать автора отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:124
+#: includes/widgets/jet-reviews-widget.php:234
+msgid "Yes"
+msgstr "Да"
+
+#: includes/widgets/jet-reviews-widget.php:125
+#: includes/widgets/jet-reviews-widget.php:235
+msgid "No"
+msgstr "Нет"
+
+#: includes/widgets/jet-reviews-widget.php:156
+msgid "Field Max"
+msgstr "Максимальное значение поля"
+
+#: includes/widgets/jet-reviews-widget.php:172
+msgid "Design"
+msgstr "Дизайн"
+
+#: includes/widgets/jet-reviews-widget.php:188
+msgid "Review Summary Title"
+msgstr "Заголовок итогов отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:201
+msgid "Review Summary Description"
+msgstr "Основной текст итогов отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:213
+msgid "Nice!"
+msgstr "Отлично!"
+
+#: includes/widgets/jet-reviews-widget.php:225
+msgid "Structured Data"
+msgstr ""
+
+#: includes/widgets/jet-reviews-widget.php:232
+msgid "Add Structured Data to review box"
+msgstr "Добавить Structured Data в блок отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:244
+msgid "Review Item Name"
+msgstr "Название объекта отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:257
+msgid "Review Item Image"
+msgstr "Изображение объекта отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:272
+msgid "Review Item Description"
+msgstr "Описание объекта отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:287
+msgid "Review Date"
+msgstr "Дата отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:316
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: includes/widgets/jet-reviews-widget.php:334
+msgid "Average Layout"
+msgstr "Общее расположение"
+
+#: includes/widgets/jet-reviews-widget.php:338
+#: includes/widgets/jet-reviews-widget.php:394
+#: includes/widgets/jet-reviews-widget.php:537
+msgid "Stars"
+msgstr "Звезды"
+
+#: includes/widgets/jet-reviews-widget.php:339
+#: includes/widgets/jet-reviews-widget.php:395
+#: includes/widgets/jet-reviews-widget.php:538
+msgid "Percentage"
+msgstr "Проценты"
+
+#: includes/widgets/jet-reviews-widget.php:340
+#: includes/widgets/jet-reviews-widget.php:396
+#: includes/widgets/jet-reviews-widget.php:539
+msgid "Points"
+msgstr "Число"
+
+#: includes/widgets/jet-reviews-widget.php:348
+#: includes/widgets/jet-reviews-widget.php:420
+#: includes/widgets/jet-reviews-widget.php:547
+msgid "Progressbar"
+msgstr "Индикатор прогресса"
+
+#: includes/widgets/jet-reviews-widget.php:350
+#: includes/widgets/jet-reviews-widget.php:422
+#: includes/widgets/jet-reviews-widget.php:549
+msgid "Show"
+msgstr "Вкл."
+
+#: includes/widgets/jet-reviews-widget.php:351
+#: includes/widgets/jet-reviews-widget.php:423
+#: includes/widgets/jet-reviews-widget.php:550
+msgid "Hide"
+msgstr "Выкл."
+
+#: includes/widgets/jet-reviews-widget.php:363
+#: includes/widgets/jet-reviews-widget.php:435
+#: includes/widgets/jet-reviews-widget.php:562
+msgid "Values Position"
+msgstr "Положение значений"
+
+#: includes/widgets/jet-reviews-widget.php:367
+#: includes/widgets/jet-reviews-widget.php:439
+#: includes/widgets/jet-reviews-widget.php:566
+msgid "Above Progressbar"
+msgstr "Над индикатором прогресса"
+
+#: includes/widgets/jet-reviews-widget.php:368
+#: includes/widgets/jet-reviews-widget.php:440
+#: includes/widgets/jet-reviews-widget.php:567
+msgid "Inside Progressbar"
+msgstr "В индикаторе прогресса"
+
+#: includes/widgets/jet-reviews-widget.php:383
+msgid "Fields Settings"
+msgstr "Настройки полей"
+
+#: includes/widgets/jet-reviews-widget.php:390
+msgid "Layout"
+msgstr "Вид отображения значений полей"
+
+#: includes/widgets/jet-reviews-widget.php:404
+msgid "Stars Position"
+msgstr "Расположение звезд"
+
+#: includes/widgets/jet-reviews-widget.php:408
+#: includes/widgets/jet-reviews-widget.php:456
+#: includes/widgets/jet-reviews-widget.php:767
+#: includes/widgets/jet-reviews-widget.php:2129
+#: includes/widgets/jet-reviews-widget.php:2291
+msgid "Right"
+msgstr "Справа"
+
+#: includes/widgets/jet-reviews-widget.php:409
+#: includes/widgets/jet-reviews-widget.php:457
+#: includes/widgets/jet-reviews-widget.php:759
+#: includes/widgets/jet-reviews-widget.php:2121
+#: includes/widgets/jet-reviews-widget.php:2283
+msgid "Left"
+msgstr "Слева"
+
+#: includes/widgets/jet-reviews-widget.php:452
+msgid "Values Alignment"
+msgstr "Расположение значений"
+
+#: includes/widgets/jet-reviews-widget.php:472
+msgid "Label Suffix"
+msgstr "Сопровождающий текст заголовка"
+
+#: includes/widgets/jet-reviews-widget.php:485
+msgid "Summary Settings"
+msgstr "Настройки блока итогов"
+
+#: includes/widgets/jet-reviews-widget.php:492
+msgid "Summary Results Block Position"
+msgstr "Положение текстовой части итогов"
+
+#: includes/widgets/jet-reviews-widget.php:497
+msgid "At right side of summary box"
+msgstr "Справа от блока итогов"
+
+#: includes/widgets/jet-reviews-widget.php:498
+msgid "At bottom of summary box"
+msgstr "Снизу от блока итогов"
+
+#: includes/widgets/jet-reviews-widget.php:499
+msgid "At left side of summary box"
+msgstr "Слева от блока итогов"
+
+#: includes/widgets/jet-reviews-widget.php:500
+msgid "At top of summary box"
+msgstr "Сверху от блока итогов"
+
+#: includes/widgets/jet-reviews-widget.php:508
+msgid "Results Block Width"
+msgstr "Ширина блока"
+
+#: includes/widgets/jet-reviews-widget.php:533
+msgid "Summary Average Layout"
+msgstr "Вид отображения значения итогов"
+
+#: includes/widgets/jet-reviews-widget.php:590
+msgid "Review Gap"
+msgstr "Отступ для отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:611
+#: includes/widgets/jet-reviews-widget.php:675
+#: includes/widgets/jet-reviews-widget.php:975
+#: includes/widgets/jet-reviews-widget.php:1082
+#: includes/widgets/jet-reviews-widget.php:1254
+#: includes/widgets/jet-reviews-widget.php:1395
+#: includes/widgets/jet-reviews-widget.php:1458
+#: includes/widgets/jet-reviews-widget.php:1786
+#: includes/widgets/jet-reviews-widget.php:1982
+#: includes/widgets/jet-reviews-widget.php:2142
+#: includes/widgets/jet-reviews-widget.php:2301
+#: includes/widgets/jet-reviews-widget.php:2497
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: includes/widgets/jet-reviews-widget.php:624
+#: includes/widgets/jet-reviews-widget.php:700
+#: includes/widgets/jet-reviews-widget.php:952
+#: includes/widgets/jet-reviews-widget.php:1233
+#: includes/widgets/jet-reviews-widget.php:1436
+#: includes/widgets/jet-reviews-widget.php:1522
+#: includes/widgets/jet-reviews-widget.php:1675
+#: includes/widgets/jet-reviews-widget.php:1811
+#: includes/widgets/jet-reviews-widget.php:1959
+#: includes/widgets/jet-reviews-widget.php:2167
+#: includes/widgets/jet-reviews-widget.php:2326
+#: includes/widgets/jet-reviews-widget.php:2474
+msgid "Border"
+msgstr "Граница"
+
+#: includes/widgets/jet-reviews-widget.php:633
+#: includes/widgets/jet-reviews-widget.php:709
+#: includes/widgets/jet-reviews-widget.php:999
+#: includes/widgets/jet-reviews-widget.php:1062
+#: includes/widgets/jet-reviews-widget.php:1242
+#: includes/widgets/jet-reviews-widget.php:1375
+#: includes/widgets/jet-reviews-widget.php:1446
+#: includes/widgets/jet-reviews-widget.php:1531
+#: includes/widgets/jet-reviews-widget.php:1684
+#: includes/widgets/jet-reviews-widget.php:1820
+#: includes/widgets/jet-reviews-widget.php:2006
+#: includes/widgets/jet-reviews-widget.php:2176
+#: includes/widgets/jet-reviews-widget.php:2335
+#: includes/widgets/jet-reviews-widget.php:2521
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: includes/widgets/jet-reviews-widget.php:655
+msgid "Header"
+msgstr "Шапка"
+
+#: includes/widgets/jet-reviews-widget.php:664
+#: includes/widgets/jet-reviews-widget.php:1304
+#: includes/widgets/jet-reviews-widget.php:1335
+#: includes/widgets/jet-reviews-widget.php:1775
+#: includes/widgets/jet-reviews-widget.php:2105
+#: includes/widgets/jet-reviews-widget.php:2266
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/widgets/jet-reviews-widget.php:687
+#: includes/widgets/jet-reviews-widget.php:987
+#: includes/widgets/jet-reviews-widget.php:1094
+#: includes/widgets/jet-reviews-widget.php:1470
+#: includes/widgets/jet-reviews-widget.php:1543
+#: includes/widgets/jet-reviews-widget.php:1798
+#: includes/widgets/jet-reviews-widget.php:1994
+#: includes/widgets/jet-reviews-widget.php:2154
+#: includes/widgets/jet-reviews-widget.php:2313
+#: includes/widgets/jet-reviews-widget.php:2509
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: includes/widgets/jet-reviews-widget.php:730
+#: includes/widgets/jet-reviews-widget.php:800
+#: includes/widgets/jet-reviews-widget.php:1115
+#: includes/widgets/jet-reviews-widget.php:1148
+#: includes/widgets/jet-reviews-widget.php:1209
+#: includes/widgets/jet-reviews-widget.php:1564
+#: includes/widgets/jet-reviews-widget.php:1597
+#: includes/widgets/jet-reviews-widget.php:1630
+#: includes/widgets/jet-reviews-widget.php:1717
+#: includes/widgets/jet-reviews-widget.php:1750
+#: includes/widgets/jet-reviews-widget.php:2039
+#: includes/widgets/jet-reviews-widget.php:2072
+#: includes/widgets/jet-reviews-widget.php:2208
+#: includes/widgets/jet-reviews-widget.php:2241
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/widgets/jet-reviews-widget.php:754
+#: includes/widgets/jet-reviews-widget.php:2116
+#: includes/widgets/jet-reviews-widget.php:2278
+msgid "Alignment"
+msgstr "Расположение"
+
+#: includes/widgets/jet-reviews-widget.php:763
+#: includes/widgets/jet-reviews-widget.php:2125
+#: includes/widgets/jet-reviews-widget.php:2287
+msgid "Center"
+msgstr "По центру"
+
+#: includes/widgets/jet-reviews-widget.php:782
+msgid "Total Average"
+msgstr "Общий результат"
+
+#: includes/widgets/jet-reviews-widget.php:825
+#: includes/widgets/jet-reviews-widget.php:1832
+#: includes/widgets/jet-reviews-widget.php:2347
+msgid "Stars Rating"
+msgstr "Рейтинг в виде звезд"
+
+#: includes/widgets/jet-reviews-widget.php:834
+#: includes/widgets/jet-reviews-widget.php:1841
+#: includes/widgets/jet-reviews-widget.php:2356
+msgid "Stars Size"
+msgstr "Размер звезд"
+
+#: includes/widgets/jet-reviews-widget.php:855
+#: includes/widgets/jet-reviews-widget.php:1862
+#: includes/widgets/jet-reviews-widget.php:2377
+msgid "Empty Stars Color"
+msgstr "Цвет незаполненных звезд"
+
+#: includes/widgets/jet-reviews-widget.php:870
+#: includes/widgets/jet-reviews-widget.php:1877
+#: includes/widgets/jet-reviews-widget.php:2392
+msgid "Filled Stars Color"
+msgstr "Цвет заполненных звезд"
+
+#: includes/widgets/jet-reviews-widget.php:885
+#: includes/widgets/jet-reviews-widget.php:1892
+#: includes/widgets/jet-reviews-widget.php:2407
+msgid "Stars Gap"
+msgstr "Расстояние между звездами"
+
+#: includes/widgets/jet-reviews-widget.php:906
+#: includes/widgets/jet-reviews-widget.php:1913
+#: includes/widgets/jet-reviews-widget.php:2428
+msgid "Progress Styles"
+msgstr "Стили индикатора прогресса"
+
+#: includes/widgets/jet-reviews-widget.php:915
+#: includes/widgets/jet-reviews-widget.php:1922
+#: includes/widgets/jet-reviews-widget.php:2437
+msgid "Progress Height"
+msgstr "Высота индикатора"
+
+#: includes/widgets/jet-reviews-widget.php:936
+#: includes/widgets/jet-reviews-widget.php:1943
+#: includes/widgets/jet-reviews-widget.php:2458
+msgid "Progress Canvas Color"
+msgstr "Цвет поля  индикатора"
+
+#: includes/widgets/jet-reviews-widget.php:960
+#: includes/widgets/jet-reviews-widget.php:1967
+#: includes/widgets/jet-reviews-widget.php:2482
+msgid "Progress Bar Color"
+msgstr "Цвет  индикатора"
+
+#: includes/widgets/jet-reviews-widget.php:1014
+msgid "Review Form"
+msgstr "Форма отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:1023
+#: includes/widgets/jet-reviews-widget.php:1419
+msgid "Container"
+msgstr "Контейнер"
+
+#: includes/widgets/jet-reviews-widget.php:1031
+msgid "Fields Gap"
+msgstr "Отступы между полями"
+
+#: includes/widgets/jet-reviews-widget.php:1176
+msgid "Slider"
+msgstr "Слайдер"
+
+#: includes/widgets/jet-reviews-widget.php:1185
+msgid "Slider Color"
+msgstr "Цвет слайдера"
+
+#: includes/widgets/jet-reviews-widget.php:1200
+msgid "Input"
+msgstr "Текст при вводе"
+
+#: includes/widgets/jet-reviews-widget.php:1266
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/widgets/jet-reviews-widget.php:1285
+msgid "Normal"
+msgstr "Стандарт"
+
+#: includes/widgets/jet-reviews-widget.php:1292
+#: includes/widgets/jet-reviews-widget.php:1324
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/widgets/jet-reviews-widget.php:1317
+msgid "Hover"
+msgstr "Фокус"
+
+#: includes/widgets/jet-reviews-widget.php:1346
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: includes/widgets/jet-reviews-widget.php:1490
+msgid "Avatar"
+msgstr "Аватар"
+
+#: includes/widgets/jet-reviews-widget.php:1499
+msgid "Avatar Size"
+msgstr "Размер аватара"
+
+#: includes/widgets/jet-reviews-widget.php:1555
+msgid "Name"
+msgstr "Имя"
+
+#: includes/widgets/jet-reviews-widget.php:1588
+msgid "Mail"
+msgstr "E-mail"
+
+#: includes/widgets/jet-reviews-widget.php:1656
+msgid "Fields"
+msgstr "Поля"
+
+#: includes/widgets/jet-reviews-widget.php:1665
+msgid "Fields Box"
+msgstr "Блок полей"
+
+#: includes/widgets/jet-reviews-widget.php:1696
+msgid "Fields Box Padding"
+msgstr "Внутренний отступ блока полей"
+
+#: includes/widgets/jet-reviews-widget.php:2021
+msgid "Summary"
+msgstr "Текстовые итоги"
+
+#: includes/widgets/jet-reviews-widget.php:2063
+msgid "Summary Content"
+msgstr "Основной текст итогов отзыва"
+
+#: includes/widgets/jet-reviews-widget.php:2096
+msgid "Summary Box"
+msgstr "Блок текста итогов"
+
+#: includes/widgets/jet-reviews-widget.php:2190
+msgid "Summary Average"
+msgstr "Общий итог"
+
+#: includes/widgets/jet-reviews-widget.php:2199
+#: templates/jet-reviews/global/form.php:46
+msgid "Legend"
+msgstr "Ярлык"
+
+#: includes/widgets/jet-reviews-widget.php:2578
+msgid "Structured data supported only for Post Meta and Manually Input sources"
+msgstr ""
+"Structured data поддерживается только для данных источников:  метаданные, и "
+"данные, введенные вручную"
+
+#: includes/widgets/jet-reviews-widget.php:2703
+msgid "Any Review Fields Not Found"
+msgstr "Поля отзыва не были найдены"
+
+#: includes/widgets/jet-reviews-widget.php:3049
+msgid "Manually Input"
+msgstr "Ручной ввод"
+
+#: includes/widgets/jet-reviews-widget.php:3050
+msgid "Post Meta"
+msgstr "Метаданные"
+
+#: includes/widgets/jet-reviews-widget.php:3054
+msgid "WP Review Data"
+msgstr "WP данные отзыва"
+
+#: jet-reviews.php:237
+#, php-format
+msgid "JetReviews for Elementor requires the following plugin: %1$s."
+msgid_plural "JetReviews for Elementor requires the following plugins: %1$s."
+msgstr[0] "Для работы с JetReviews требуется следующий плагин: %1$s."
+msgstr[1] "Для работы с JetReviews требуются следующие плагины: %1$s."
+msgstr[2] "Для работы с JetReviews требуется следующий плагин: %1$s."
+
+#: jet-reviews.php:242
+#, php-format
+msgid "JetReviews for Elementor recommends the following plugin: %1$s."
+msgid_plural "JetReviews for Elementor recommends the following plugins: %1$s."
+msgstr[0] "Для работы с JetReviews рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для работы с JetReviews рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для работы с JetReviews рекомендуется следующий плагин: %1$s."
+
+#: jet-reviews.php:357
+msgid "Changelog"
+msgstr "Изменения"
+
+#: templates/jet-reviews/global/form.php:18
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: templates/jet-reviews/global/form.php:50
+msgid "Description"
+msgstr "Описание"
+
+#: templates/jet-reviews/global/form.php:55
+msgid "Submit Review"
+msgstr "Отправить отзыв"
